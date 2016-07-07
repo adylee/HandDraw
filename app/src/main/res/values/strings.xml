@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HandDraw</string>
+    <string name="color">color</string>
+    <string name="color_red">red</string>
+    <string name="color_green">green</string>
+    <string name="color_blue">blue</string>
+    <string name="width_1">1dp</string>
+    <string name="width_3">3dp</string>
+    <string name="width_5">5dp</string>
+    <string name="width">width</string>
+    <string name="blur">blur</string>
+    <string name="emboss">emboss</string>
+</resources>
